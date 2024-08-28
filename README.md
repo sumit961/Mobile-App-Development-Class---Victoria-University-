@@ -3,6 +3,8 @@
 
 This repository contains the class work exercises for the Mobile Application Development course at Victoria University. The exercises range from basic Kotlin syntax corrections to more advanced topics like class inheritance, loops, and data handling.
 
+The course is taught by Amirhossein Shokoohmoayed, who is a great teacher, known for his effective and interactive teaching style.
+
 ## Project Overview
 
 This project includes 10 exercises, each focusing on different aspects of Kotlin programming and Android development. The exercises are designed to strengthen your understanding of Kotlin syntax, object-oriented programming, and basic data structures.
